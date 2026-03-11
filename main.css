@@ -10,6 +10,15 @@
     .video-stream
     {
         image-rendering: pixelated !important;
+        
+    }
+    .yt-core-attributed-string--white-space-pre-wrap,.yt-core-attributed-string--link-inherit-color{
+        color:#fff!important;
+        
+    }
+    #ytd-watch-metadata[description-collapsed], #description.ytd-watch-metadata:hover{
+        color:#fff;
+        background:#000!important;
     }
     #frosted-glass{
         background:#000!important;
